@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7ade45e7-92b0-4ef9-a6af-f05c89173b19" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1W36lf6UzJ6pJ2p8mPIUsjhpHfj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="JUnit.WagTagTest.testWagTag">
+    <configuration name="ApplyTest.testApply" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="wagwalking" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="wagwalking.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="wagwalking" />
+      <option name="MAIN_CLASS_NAME" value="wagwalking.ApplyTest" />
+      <option name="METHOD_NAME" value="testApply" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomeworkTest.testHomework" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="wagwalking" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="wagwalking.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="wagwalking" />
+      <option name="MAIN_CLASS_NAME" value="wagwalking.HomeworkTest" />
+      <option name="METHOD_NAME" value="testHomework" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest.testLogin" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="wagwalking" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="wagwalking.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="wagwalking" />
+      <option name="MAIN_CLASS_NAME" value="wagwalking.LoginTest" />
+      <option name="METHOD_NAME" value="testLogin" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WagTagTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="wagwalking" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="wagwalking.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="wagwalking" />
+      <option name="MAIN_CLASS_NAME" value="wagwalking.WagTagTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WagTagTest.testWagTag" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="wagwalking" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="wagwalking.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="wagwalking" />
+      <option name="MAIN_CLASS_NAME" value="wagwalking.WagTagTest" />
+      <option name="METHOD_NAME" value="testWagTag" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.WagTagTest.testWagTag" />
+        <item itemvalue="JUnit.LoginTest.testLogin" />
+        <item itemvalue="JUnit.WagTagTest" />
+        <item itemvalue="JUnit.HomeworkTest.testHomework" />
+        <item itemvalue="JUnit.ApplyTest.testApply" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7ade45e7-92b0-4ef9-a6af-f05c89173b19" name="Default Changelist" comment="" />
+      <created>1578366083144</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578366083144</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="127" key="#Inspections" timestamp="1579237366933">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="320" y="127" key="#Inspections/0.23.1440.877@0.23.1440.877" timestamp="1579237366933" />
+    <state x="320" y="127" width="811" height="669" key="#Project_Structure" timestamp="1578462650212">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="320" y="127" width="811" height="669" key="#Project_Structure/0.23.1440.877@0.23.1440.877" timestamp="1578462650212" />
+    <state x="458" y="234" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1579239838049">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="458" y="234" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.23.1440.877@0.23.1440.877" timestamp="1579239838049" />
+    <state x="100" y="123" width="1240" height="677" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1579240606179">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="100" y="123" width="1240" height="677" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.23.1440.877@0.23.1440.877" timestamp="1579240606179" />
+    <state x="191" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1579229189090">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="191" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1440.877@0.23.1440.877" timestamp="1579229189090" />
+    <state x="458" y="215" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1579240661931">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="458" y="215" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.877@0.23.1440.877" timestamp="1579240661931" />
+    <state width="1398" height="170" key="GridCell.Tab.0.bottom" timestamp="1579498406383">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="170" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1579498406383" />
+    <state width="1398" height="170" key="GridCell.Tab.0.center" timestamp="1579498406383">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="170" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1579498406383" />
+    <state width="1398" height="170" key="GridCell.Tab.0.left" timestamp="1579498406382">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="170" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1579498406382" />
+    <state width="1398" height="170" key="GridCell.Tab.0.right" timestamp="1579498406383">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="170" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1579498406383" />
+    <state width="1398" height="285" key="GridCell.Tab.1.bottom" timestamp="1578712879184">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="285" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1578712879184" />
+    <state width="1398" height="285" key="GridCell.Tab.1.center" timestamp="1578712879183">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="285" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1578712879183" />
+    <state width="1398" height="285" key="GridCell.Tab.1.left" timestamp="1578712879183">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="285" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1578712879183" />
+    <state width="1398" height="285" key="GridCell.Tab.1.right" timestamp="1578712879183">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="285" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1578712879183" />
+    <state x="397" y="294" key="com.intellij.ide.util.TipDialog" timestamp="1579239643163">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="397" y="294" key="com.intellij.ide.util.TipDialog/0.23.1440.877@0.23.1440.877" timestamp="1579239643163" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/wagwalking/WagTagTest.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
