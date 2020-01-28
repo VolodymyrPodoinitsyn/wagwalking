@@ -26,4 +26,5 @@ public class ApplyTest extends BaseTest {
 
         applyPage.inputPhone("+1322223322");
     }
+    //test1
 }
